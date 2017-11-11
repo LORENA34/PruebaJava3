@@ -8,7 +8,7 @@ package Conexion;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-import conexion.ConexionBD;
+//import conexion.ConexionBD;
 /**
   *LORENA SALINAS ROJO
  * NOVIEMBRE 10 2017
@@ -16,7 +16,7 @@ import conexion.ConexionBD;
  * RESPONSABILIDAD CONEXION
  * @author sala306
  */
-public class Conexion
+public class ConexionBD
 {
     //PASO 11 - DECLARANDO OBJETOS PARA LA CONEXION
     private static Connection conex;//Objeto tipo Connection
